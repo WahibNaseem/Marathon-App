@@ -1,7 +1,6 @@
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\bin\Debug\netcoreapp2.2\Marathon.Core.deps.json
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\bin\Debug\netcoreapp2.2\Marathon.Core.dll
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\bin\Debug\netcoreapp2.2\Marathon.Core.pdb
-C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\obj\Debug\netcoreapp2.2\Marathon.Core.csprojAssemblyReference.cache
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\obj\Debug\netcoreapp2.2\Marathon.Core.csproj.CoreCompileInputs.cache
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\obj\Debug\netcoreapp2.2\Marathon.Core.AssemblyInfoInputs.cache
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Core\obj\Debug\netcoreapp2.2\Marathon.Core.AssemblyInfo.cs

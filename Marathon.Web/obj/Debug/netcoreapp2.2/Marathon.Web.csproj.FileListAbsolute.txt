@@ -5,6 +5,10 @@ C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreap
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Web.pdb
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Web.Views.dll
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Web.Views.pdb
+C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Core.dll
+C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Data.dll
+C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Data.pdb
+C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\bin\Debug\netcoreapp2.2\Marathon.Core.pdb
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.csprojAssemblyReference.cache
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.csproj.CoreCompileInputs.cache
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.RazorAssemblyInfo.cache
@@ -25,6 +29,6 @@ C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreap
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.RazorTargetAssemblyInfo.cache
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.RazorTargetAssemblyInfo.cs
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.Views.pdb
+C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.csproj.CopyComplete
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.dll
 C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.pdb
-C:\Users\Wahib\source\repos\MarathonApplication\Marathon.Web\obj\Debug\netcoreapp2.2\Marathon.Web.csproj.CopyComplete

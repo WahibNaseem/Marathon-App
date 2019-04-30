@@ -1,2 +1,4 @@
 #Do not push this folder on repo
 *.vs
+*.bin
+*.obj

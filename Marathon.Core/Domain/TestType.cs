@@ -10,5 +10,8 @@ namespace Marathon.Core.Domain
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
+
+        public int TestId { get; set; }
+        public Test Test { get; set; }
     }
 }

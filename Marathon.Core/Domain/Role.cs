@@ -11,5 +11,7 @@ namespace Marathon.Core.Domain
         public int Id { get; set; }
         public string RoleName { get; set; }
         public bool IsActive { get; set; }
+
+        public ICollection<User> Users { get; set; }
     }
 }
